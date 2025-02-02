@@ -1,0 +1,67 @@
+body {
+  /* background-color: rgb(223, 241, 231); */
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.header {
+  text-align: center;
+}
+.header__img {
+  width: 300px;
+}
+.header_name {
+  font-size: 28px;
+}
+.header__proffesion {
+  font-size: 24px;
+  color: rgb(105, 105, 233);
+}
+main {
+  text-align: center;
+}
+.skills ol {
+  list-style-type: none;
+}
+.separator {
+  width: 50%;
+  height: 5px;
+  background-color: rgb(250, 225, 191);
+}
+.video {
+  width: 1200px;
+  height: 600px;
+}
+.hobbies ol {
+  list-style-type: none;
+}
+.ed {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: rgb(190, 245, 245);
+}
+.ed th,
+.ed td {
+  border: 1px solid black;
+  padding: 10px;
+}
+.quote {
+  font-size: 32px;
+}
+.interaction input {
+  width: 100%;
+  margin: 5px auto;
+}
+.submit_btn {
+  display: block;
+  margin: 5px auto 0px auto;
+}
+footer {
+  text-align: center;
+  height: 100px;
+  padding-top: 10px;
+  background-color: rgb(43, 43, 43);
+}
+.address a {
+  color: white;
+}
